@@ -1,4 +1,5 @@
 ### Hi there 👋 My Name is Paola 
+ 😄 Pronouns: she/her 
 
 <!--
 **PaoAracena/PaoAracena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
