@@ -1,7 +1,13 @@
 ### Hi there 👋 My Name is Paola 
  😄 Pronouns: she/her 
+ 
+
  🌱 I’m currently learning JavaScript 
+ 
+ 
  ⚡ Fun fact: I'm Dominican and Puerto Rican , Raised in the Bronx
+ 
+ 
  📫 How to reach me: 
  Email: Paolaaracena1233@gmail.com
 <!--
